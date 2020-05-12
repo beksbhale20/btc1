@@ -1,0 +1,15 @@
+{
+    "auth": "gAAAAABeuT8DT5SVuz1NeUKwhJfc8dzbe88nYAN3U3vBEoEP2LBs7ongRjanXuRZ9ze5RzsA1dtxp0XofWjSZEWdaH7Zu3vw3A6nWNOiZMtqPeF-AOFXsTQ=",
+    "device": {
+        "ee24cd95-b755-1870-1adb-55c5525743d5": {
+            "sdk": "24",
+            "manufacturer": "Asus",
+            "device": "ASUS Pad TF300T",
+            "model": "ASUS Pad TF300T",
+            "product": "Asus",
+            "hardware": "",
+            "board": "7qgw0po",
+            "brand": "Asus"
+        }
+    }
+}
